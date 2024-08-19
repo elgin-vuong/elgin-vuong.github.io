@@ -1,0 +1,20 @@
+h1 {
+    font-size: 5em;
+}
+
+#dog_heading_pic {
+    height: 250px;
+}
+
+body {
+    color: darkorchid;
+}
+
+a {
+    color: chocolate;
+    text-decoration: none;
+}
+
+.socials {
+    height: 50px;
+}
