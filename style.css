@@ -8,6 +8,7 @@ h1 {
 
 body {
     color: darkorchid;
+    background-color: cadetblue;
 }
 
 a {
@@ -18,3 +19,4 @@ a {
 .socials {
     height: 50px;
 }
+
